@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T15:55:10.482Z
+date: 2024-09-27T17:25:59.965Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -23,6 +23,9 @@ If you're just getting started with the AT Protocol, start with these links. The
 
 ## Projects
 Information regarding current projects and services within ATProto
+
+- [AppViews *List of actively developed AppViews within the Atmosphere*](Current_Projects/AppViews)
+{.links-list}
 
 ### [AppViews](/AT_Protocol/Core_Components/AppView)
 - [🦋 Bluesky *Microblogging platform*](/Current_Projects/AppViews/Bluesky)
