@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T20:36:14.193Z
+date: 2024-09-27T22:00:13.929Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -33,7 +33,7 @@ Information regarding current projects and services within ATProto
 ## Tools
 Community-built tools for visualizing and interacting with the protocol.
 - [Data Aggregators*List of services providing usage statistics for ATProto*](/Current_Projects/Data)
-- [internetc.info *DID resolver*](https://internetc.info)
+- [internect.info *DID resolver*](https://internect.info)
 {.links-list}
 
 ## Protocol News
