@@ -2,7 +2,7 @@
 title: Data Aggregators
 description: 
 published: true
-date: 2024-09-27T19:02:29.747Z
+date: 2024-09-27T19:03:37.469Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-27T19:02:29.747Z
