@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
 ---
 
-> This wiki is a work-in-progress. Information may be sparce, incomplete, or inaccurate. We encourage you to add to this wiki through [GitHub](https://github.com/baldemoto/atproto-wiki-docs/) (OAuth soon) and contribute to the knowledge base!
+> This wiki is a work-in-progress. Information may be sparce, incomplete, or inaccurate. We encourage you to add to this wiki through [GitHub](https://github.com/baldemoto/atproto-wiki-docs/) (OAuth soon) and contribute to the knowledge base! **Test edit**
 {.is-warning}
 
 # Welcome to the ATProto Wiki!
