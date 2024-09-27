@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T20:35:47.207Z
+date: 2024-09-27T20:36:14.193Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -37,7 +37,7 @@ Community-built tools for visualizing and interacting with the protocol.
 {.links-list}
 
 ## Protocol News
-- [The Fediverse Report *Newsletter for the Fediverse and Atmosphere*](/https://fediversereport.com/)
+- [The Fediverse Report *Newsletter for the Fediverse and Atmosphere*](https://fediversereport.com/)
 {.links-list}
 
 
