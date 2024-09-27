@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T17:45:20.332Z
+date: 2024-09-27T18:57:36.075Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -30,7 +30,7 @@ Information regarding current projects and services within ATProto
 {.links-list}
 
 ### Protocol Statistics
-- [Data Aggregators*List of services providing usage statistics for ATProto*](//Current_Projects/Statistics)
+- [Data Aggregators*List of services providing usage statistics for ATProto*](//Current_Projects/Data)
 - [Stats for Bluesky *Statistics for Bluesky usage*](/Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
 {.links-list}
 - [bskycharts *Real-time statistics for ATProto usage*](/Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
