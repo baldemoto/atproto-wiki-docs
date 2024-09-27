@@ -2,7 +2,7 @@
 title: Records
 description: 
 published: true
-date: 2024-09-27T04:28:12.970Z
+date: 2024-09-27T04:38:29.029Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T04:48:57.742Z
@@ -14,6 +14,6 @@ dateCreated: 2024-09-26T04:48:57.742Z
 
 ## [Content Identifier (CID)](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Records/Content_Identifier_(CID))
 
-## [Merkle Search Tree (MST)](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Records/Merkle_Search_Tree_MST)
+## [Merkle Search Tree (MST)](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Records/Merkle_Search_Tree_MST))
 
 ## [Namespaced Identifiers (NSIDs)](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Records/Namespaced_Identifiers_(NSIDs))
