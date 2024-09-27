@@ -2,7 +2,7 @@
 title: Personal Data Server (PDS)
 description: 
 published: true
-date: 2024-09-27T04:03:17.181Z
+date: 2024-09-27T04:26:19.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T04:43:23.004Z
