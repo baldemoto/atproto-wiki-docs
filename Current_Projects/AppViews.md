@@ -2,7 +2,7 @@
 title: AppView Projects
 description: 
 published: true
-date: 2024-09-27T17:34:50.742Z
+date: 2024-09-27T17:35:09.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T05:33:58.721Z
@@ -12,6 +12,6 @@ dateCreated: 2024-09-26T05:33:58.721Z
 This is a list of currently developed [AppViews](/AT_Protocol/Core_Components/AppView) within the Atmosphere.
 - [🦋 Bluesky *Microblogging platform developed by Bluesky Social*](/Current_Projects/AppViews/Bluesky)
 - [💨 WhiteWind *Blogging platform*](/Current_Projects/AppViews/WhiteWind)
-- [📰 Frontpage *Link aggregator*](/Current_Projects/AppViews/Frontpage)
+- [📰 Frontpage *Link aggregator platform*](/Current_Projects/AppViews/Frontpage)
 - [🏕️ Smoke Signal *RSVP service*](/Current_Projects/AppViews/Smoke_Signal)
 {.links-list}
