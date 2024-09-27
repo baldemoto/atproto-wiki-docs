@@ -2,13 +2,13 @@
 title: AT Protocol
 description: 
 published: true
-date: 2024-09-27T02:47:38.741Z
+date: 2024-09-27T20:21:50.572Z
 tags: core protocol
 editor: markdown
 dateCreated: 2024-09-26T04:40:16.677Z
 ---
 
-# AT Protocol
+# What is the AT Protocol?
 The **AT Protocol (Authenticated Transfer Protocol)**, also commonly abbreviated as **ATProto**, is an open communications protocol intended to be used for decentralized social networking services.
 
 ATProto began as the "Authenticated Data Experiment" (ADX), a project within Twitter to solve issues with previous decentralized implementations for social media such as ActivityPub:
@@ -35,5 +35,7 @@ The AT Protocol aims to solve these issues by splitting the services necessary f
 AppViews are end-user platforms and services which consume, process, and serve content from the Firehose to user clients. AppViews query user PDSes on the user's behalf, allowing users to update their repos and interact with content within the network.
 
 ## Opinionated Services
+
+The protocol allows for integration of peripheal services for additional customization of the user's experience.
 
 ## User Identity
