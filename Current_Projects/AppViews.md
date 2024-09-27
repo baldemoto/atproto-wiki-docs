@@ -2,7 +2,7 @@
 title: AppView Projects
 description: 
 published: true
-date: 2024-09-27T17:28:56.892Z
+date: 2024-09-27T17:30:20.153Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T05:33:58.721Z
