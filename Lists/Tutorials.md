@@ -2,7 +2,7 @@
 title: List of Tutorials
 description: 
 published: true
-date: 2024-09-27T03:48:52.433Z
+date: 2024-09-27T03:49:53.002Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-27T00:22:26.208Z
@@ -21,7 +21,7 @@ Below is a list of community-made tutorials for ATProto.
 - [Setting up a PDS](/AT_Protocol/Core_Components/Personal_Data_Server/Tutorials/Setting_up_a_PDS)
 {.links-list}
 
-## [User Repos](https://atproto.wiki/en/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories)
+## [User Repos](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories)
 - [Backing up repositories](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Tutorials/Backing_up_repositories)
 - [Migrating repositories](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Tutorials/Migrating_repositories)
 {.links-list}
