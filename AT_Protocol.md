@@ -2,7 +2,7 @@
 title: AT Protocol
 description: 
 published: true
-date: 2024-09-27T02:44:30.536Z
+date: 2024-09-27T02:44:43.234Z
 tags: core protocol
 editor: markdown
 dateCreated: 2024-09-26T04:40:16.677Z
@@ -26,3 +26,5 @@ The AT Protocol aims to solve these issues by splitting the services necessary f
 - [**AppViews**](/AT_Protocol/Core_Components/AppView) are end-user platforms and services which consume, process, and serve content from the Firehose to user clients. AppViews query user PDSes on the user's behalf, allowing users to update their repos and interact with content within the network.
 
 ## Opinionated Services
+
+## User Identity
