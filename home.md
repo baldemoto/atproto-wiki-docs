@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T18:57:36.075Z
+date: 2024-09-27T19:11:40.565Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -29,19 +29,14 @@ Information regarding current projects and services within ATProto
 - [Bridgy Fed *ATProto-Fediverse bridge*](/Current_Projects/Bridgy_Fed)
 {.links-list}
 
-### Protocol Statistics
+## Tools
+Community-built tools for visualizing and interacting with the protocol.
 - [Data Aggregators*List of services providing usage statistics for ATProto*](//Current_Projects/Data)
-- [Stats for Bluesky *Statistics for Bluesky usage*](/Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
-{.links-list}
-- [bskycharts *Real-time statistics for ATProto usage*](/Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
-- [Bluesky handles directory *ATProto handle directory and statistics*](Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
-- [twexit *Miscallaneous statistics*](/Current_Projects/Miscallaneous/twexit)
-
-### Protocol News
-- [The Fediverse Report *Newsletter for the Fediverse and Atmosphere*](/Current_Projects/Newsletters/The_Fediverse_Report)
+- [internetc.info *DID resolver*](/Current_Projects/Miscallaneous/internetc_info)
 {.links-list}
 
-### Miscallaneous Tools
- - [internetc.info *DID resolver*](/Current_Projects/Miscallaneous/internetc_info)
- {.links-list}
+## Protocol News
+- [The Fediverse Report *Newsletter for the Fediverse and Atmosphere*](/https://fediversereport.com/)
+{.links-list}
+
 
