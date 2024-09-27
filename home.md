@@ -1,14 +1,14 @@
 ---
-title: Welcome to the Atmosphere
+title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T01:24:08.200Z
+date: 2024-09-27T01:29:21.604Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
 ---
 
-> This wiki is a work-in-progress. Information may be sparce, incomplete, or inaccurate. We encourage you to log in using OAuth (WIP) and contribute to the knowledge base!
+> This wiki is a work-in-progress. Information may be sparce, incomplete, or inaccurate. We encourage you to add to this wiki through GitHub (OAuth soon) and contribute to the knowledge base!
 {.is-warning}
 
 # Welcome to the ATProto Wiki!
