@@ -2,7 +2,7 @@
 title: List of Tutorials
 description: 
 published: true
-date: 2024-09-27T03:58:41.844Z
+date: 2024-09-27T04:20:28.549Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-27T00:22:26.208Z
@@ -15,6 +15,10 @@ Below is a list of community-made tutorials for ATProto.
 
 ## [AppView](/AT_Protocol/Core_Components/AppView)
 - [Setting up an AppView](/AT_Protocol/Core_Components/AppView/Tutorials/Setting_up_an_AppView)
+{.links-list}
+
+### [Lexicons](/AT_Protocol/Core_Components/AppView/Lexicons)
+- [Defining a lexicon](/AT_Protocol/Core_Components/AppView/Lexicons/Tutorials/Defining_a_lexicon)
 {.links-list}
 
 ## [PDS](/AT_Protocol/Core_Components/Personal_Data_Server)
