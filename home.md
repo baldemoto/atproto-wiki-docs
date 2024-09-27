@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T01:29:21.604Z
+date: 2024-09-27T02:56:00.772Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -17,10 +17,6 @@ Welcome to the ATProto Wiki, the unofficial community-run Wiki documenting the A
 ## Getting Started
 If you're just getting started with the AT Protocol, start with these links. These articles will introduce you to ATProto's architecture, alongside basic terms and concepts.
 - [AT Protocol *Basic introduction to ATProto*](/AT_Protocol)
-- [Core Components *Introduction to the core components of ATProto*](/AT_Protocol/Core_Components)
-- [Identity *Introduction to the concept of user identity within ATProto*](/AT_Protocol/Identity)
-- [Opinionated Services *Introduction to opinionated services (labelers and feed generators*)](AT_Protocol/Opinionated_Services)
-- [Networking *Introduction to Networking within ATProto*](/AT_Protocol/Networking)
 - [SDKs *List of available SDKs for the protocol*](/AT_Protocol/SDKs)
 - [Tutorials *List of tutorials for getting started with ATProto*](/Lists/Tutorials)
 {.links-list}
