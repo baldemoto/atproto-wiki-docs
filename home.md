@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T20:22:33.572Z
+date: 2024-09-27T20:23:03.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -16,7 +16,7 @@ Welcome to the ATProto Wiki, the unofficial community-run Wiki documenting the A
 
 ## Getting Started
 If you're just getting started with the AT Protocol, start with these links. These articles will introduce you to ATProto's architecture, alongside basic terms and concepts.
-- [AT Protocol *Basic introduction to ATProto*](/AT_Protocol)
+- [What is the AT Protocol? *Basic introduction to ATProto and its components*](/AT_Protocol)
 - [Glossary *Glossary of protocol terminology*](/AT_Protocol/Glossary)
 - [SDKs *List of available SDKs for the protocol*](/AT_Protocol/SDKs)
 - [Tutorials *List of tutorials for getting started with ATProto*](/Lists/Tutorials)
