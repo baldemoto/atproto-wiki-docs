@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T17:25:59.965Z
+date: 2024-09-27T17:45:20.332Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -26,19 +26,11 @@ Information regarding current projects and services within ATProto
 
 - [AppViews *List of actively developed AppViews within the Atmosphere*](Current_Projects/AppViews)
 {.links-list}
-
-### [AppViews](/AT_Protocol/Core_Components/AppView)
-- [🦋 Bluesky *Microblogging platform*](/Current_Projects/AppViews/Bluesky)
-- [💨 WhiteWind *Blogging platform*](Current_Projects/AppViews/WhiteWind)
-- [📰 Frontpage *Link aggregator*](Current_Projects/AppViews/Frontpage)
-- [🏕️ Smoke Signal *RSVP service*](Current_Projects/AppViews/Smoke_Signal)
-{.links-list}
-
-### Federation Bridge
 - [Bridgy Fed *ATProto-Fediverse bridge*](/Current_Projects/Bridgy_Fed)
 {.links-list}
 
 ### Protocol Statistics
+- [Data Aggregators*List of services providing usage statistics for ATProto*](//Current_Projects/Statistics)
 - [Stats for Bluesky *Statistics for Bluesky usage*](/Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
 {.links-list}
 - [bskycharts *Real-time statistics for ATProto usage*](/Current_Projects/ATProto_Statistics/Stats_for_Bluesky)
