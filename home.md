@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T02:56:00.772Z
+date: 2024-09-27T03:04:59.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -28,7 +28,7 @@ Information regarding current projects and services within ATProto
 - [🦋 Bluesky *Microblogging platform*](/Current_Projects/AppViews/Bluesky)
 - [💨 WhiteWind *Blogging platform*](Current_Projects/AppViews/WhiteWind)
 - [📰 Frontpage *Link aggregator*](Current_Projects/AppViews/Frontpage)
-- [🏕️ SmokeSignal *RSVP service*](Current_Projects/AppViews/SmokeSignal)
+- [🏕️ Smoke Signal *RSVP service*](Current_Projects/AppViews/Smoke_Signal)
 {.links-list}
 
 ### Federation Bridge
