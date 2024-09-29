@@ -2,7 +2,7 @@
 title: AT Protocol
 description: 
 published: true
-date: 2024-09-27T20:21:50.572Z
+date: 2024-09-29T03:23:14.000Z
 tags: core protocol
 editor: markdown
 dateCreated: 2024-09-26T04:40:16.677Z
@@ -11,7 +11,7 @@ dateCreated: 2024-09-26T04:40:16.677Z
 # What is the AT Protocol?
 The **AT Protocol (Authenticated Transfer Protocol)**, also commonly abbreviated as **ATProto**, is an open communications protocol intended to be used for decentralized social networking services.
 
-ATProto began as the "Authenticated Data Experiment" (ADX), a project within Twitter to solve issues with previous decentralized implementations for social media such as ActivityPub:
+ATProto began as the "Authenticated Data Experiment" (ADX), a project within Twitter to explore the possibility of decentralizing the platform. The protocol was designed to adress various issues with other:
 
 - **Platform interoperability** — Protocols such as ActivityPub run as separate, independent services which can choose to federate (share information) with each other. The choice to federate or defederate has led to fragmentation of services, with some users unable to see content posted by other users.
 - **Discoverability** — Alternative decentralized protocols had no indexing mechanisms for the network. Because of this, discoverability-focused tooling, such as algorithmic feeds and user suggestions, were not possible at a protocol level
