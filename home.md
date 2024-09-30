@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-09-27T22:00:13.929Z
+date: 2024-09-30T04:27:10.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -27,7 +27,7 @@ Information regarding current projects and services within ATProto
 
 - [AppViews *List of actively developed AppViews within the Atmosphere*](Current_Projects/AppViews)
 {.links-list}
-- [Bridgy Fed *ATProto-Fediverse bridge*](/Current_Projects/Bridgy_Fed)
+- [Bridgy Fed *ATProto <-> Fediverse bridge*](/Current_Projects/Bridgy_Fed)
 {.links-list}
 
 ## Tools
