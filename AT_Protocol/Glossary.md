@@ -2,7 +2,7 @@
 title: AT Protocol Glossary
 description: 
 published: true
-date: 2024-10-01T05:12:55.182Z
+date: 2024-10-01T20:57:38.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-27T20:23:30.988Z
@@ -20,6 +20,7 @@ The AT Protocol introduces many new components and terminology that may not be i
 - [Content Identifier (CID)](/AT_Protocol/Core_Components/Personal_Data_Server/Personal_Data_Repositories/Records/Content_Identifier_(CID))
 - DAG-CBOR
 - [Decentralized Identifier (DIDs)](/AT_Protocol/Identity/Decentralized_Identifiers)
+- [DID:PLC*Short for "DID:Public Ledger of Credentials"*](/AT_Protocol/Identity/Decentralized_Identifiers/DID:PLC)
 - [Feed Generators](/AT_Protocol/Opinionated_Services/Feed_Generators)
 - [Handles](/AT_Protocol/Identity/Handles)
 - [Labelers](/AT_Protocol/Opinionated_Services/Labelers)
