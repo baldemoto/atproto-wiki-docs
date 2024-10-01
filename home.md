@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-10-01T20:12:10.870Z
+date: 2024-10-01T20:14:21.734Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -25,10 +25,10 @@ We welcome community contributions to help expand this knowledge base. If you wo
 
 ## Getting Started
 If you'd like to become familiar with the AT Protocol and its components, begin here.
-- [@ What is the AT Protocol? *Basic introduction to ATProto and its components*](/AT_Protocol)
+- [❓ What is the AT Protocol? *Basic introduction to ATProto and its components*](/AT_Protocol)
 - [📖 Glossary *Glossary of ATProto terminology*](/AT_Protocol/Glossary)
 - [👨‍💻 SDKs *List of available SDKs for the protocol*](/AT_Protocol/SDKs)
-- [❓ Tutorials *List of tutorials for getting started with ATProto*](/Lists/Tutorials)
+- [🔧 Tutorials *List of tutorials for getting started with ATProto*](/Lists/Tutorials)
 {.links-list}
 
 ## Projects
@@ -42,7 +42,8 @@ Information regarding current projects and services within ATProto
 ## Tools
 Community-built tools for visualizing and interacting with the protocol.
 - [📊 Data Aggregators*List of services providing usage statistics for ATProto*](/Current_Projects/Data)
-- [🔎 internect.info *DID resolver*](https://internect.info)
+- [🔎 internect.info*DID resolver*](https://internect.info)
+- [🛠️ Developer tools*Community tooling to get started in the Atmosphere*](/Current_Projcets/Dev_Tools)
 {.links-list}
 
 ## Protocol News
