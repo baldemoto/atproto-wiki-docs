@@ -2,7 +2,7 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: true
-date: 2024-10-01T20:14:21.734Z
+date: 2024-10-01T20:39:16.462Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T03:26:31.164Z
@@ -12,13 +12,13 @@ dateCreated: 2024-09-26T03:26:31.164Z
 {.is-warning}
 
 # Welcome to the ATProto Wiki!
-Welcome to the ATProto Wiki, the unofficial community-run wiki documenting the AT Protocol and all things Atmosphere!
+Welcome to the ATProto Wiki, the unofficial community-run wiki documenting the AT Protocol and all things Atmosphere. 
 
 
 This wiki aims to:
 1. **Provide up-to-date documentation on ATProto and its components**
 2. **Provide comprehensive guides for how to begin building with ATProto**
-3. **Maintain a record of ATProto projects and tooling.**
+3. **Maintain an up-do-date list of ATProto projects and tooling for users and developers**
 
 We welcome community contributions to help expand this knowledge base. If you would like to contribute, create an account via ATProto OAuth to get started.
 
