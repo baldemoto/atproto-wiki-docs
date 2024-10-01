@@ -2,7 +2,7 @@
 title: Identity
 description: 
 published: true
-date: 2024-10-01T04:38:40.915Z
+date: 2024-10-01T04:39:19.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T16:16:52.965Z
@@ -12,4 +12,6 @@ dateCreated: 2024-09-26T16:16:52.965Z
 Your content here
 ## [Handles](/AT_Protocol/Identity/Handles)
 
-## [Decentralized Identifiers (DID)](/AT_Protocol/Identity/Decentralized_Identifier)
+## [Decentralized Identifiers (DIDs)](/AT_Protocol/Identity/Decentralized_Identifier)
+
+## [OAuth](/AT_Protocol/Identity/OAuth)
