@@ -2,13 +2,13 @@
 title: Welcome to the ATProto Wiki!
 description: 
 published: 1
-date: 2024-10-08T23:01:47.193Z
+date: 2024-10-08T23:05:36.298Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T22:20:26.045Z
 ---
 
-> This wiki is a work-in-progress. Information may be sparce, incomplete, or inaccurate. We encourage you to add to this wiki through [GitHub](https://github.com/baldemoto/atproto-wiki-docs/) (OAuth soon) and contribute to the knowledge base!
+> This wiki is a work-in-progress. Information may be sparce, incomplete, or inaccurate. We encourage you to add to this wiki through [GitHub](https://github.com/baldemoto/atproto-wiki-docs/) (OAuth soon) and contribute to the knowledge base! This is a test edit
 {.is-warning}
 
 # Welcome to the ATProto Wiki!
