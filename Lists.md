@@ -1,11 +1,11 @@
 ---
 title: Lists
 description: 
-published: true
-date: 2024-09-27T00:22:31.145Z
+published: 1
+date: 2024-10-08T22:20:21.640Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-27T00:21:38.959Z
+dateCreated: 2024-10-08T22:20:21.640Z
 ---
 
 # Lists

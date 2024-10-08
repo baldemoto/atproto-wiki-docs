@@ -1,11 +1,11 @@
 ---
 title: AT Protocol
 description: 
-published: true
-date: 2024-09-29T03:23:14.000Z
+published: 1
+date: 2024-10-08T22:20:16.250Z
 tags: core protocol
 editor: markdown
-dateCreated: 2024-09-26T04:40:16.677Z
+dateCreated: 2024-10-08T22:20:12.692Z
 ---
 
 # What is the AT Protocol?

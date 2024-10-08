@@ -1,11 +1,11 @@
 ---
 title: Current Projects
 description: 
-published: true
-date: 2024-09-26T16:36:35.051Z
+published: 1
+date: 2024-10-08T22:20:20.381Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-26T16:36:31.690Z
+dateCreated: 2024-10-08T22:20:17.542Z
 ---
 
 # Current Projects
