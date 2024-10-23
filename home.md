@@ -49,5 +49,3 @@ Community-built tools for visualizing and interacting with the protocol.
 ## Protocol News
 - [📰 The Fediverse Report *Newsletter for the Fediverse and Atmosphere*](https://fediversereport.com/)
 {.links-list}
-
-test
